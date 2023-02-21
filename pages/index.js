@@ -14,7 +14,7 @@ export default function Home() {
   }
 
   return (
-    <div className="grad">
+    <div>
       <h1>Chef It Up!</h1>
       <h3>An application for making fun, AI generated recipes</h3>
       <button onClick={changePage}>
